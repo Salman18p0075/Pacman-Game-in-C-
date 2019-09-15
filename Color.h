@@ -1,0 +1,1 @@
+void SetColor(int ForgC);
